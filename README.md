@@ -1,183 +1,89 @@
-👋 Hi there, I'm Manthan Raut
+🎉 Hi there, I'm Manthan Raut!
+🧑‍💻 Software Developer | Python | Machine Learning | FastAPI
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-afb22f0b-f3d8-4c8e-8c9d-572b56e54df9.gif" width="400"> </p>
 
-🎓 B.E. in Information Technology
-📍 St. Vincent Pallotti College of Engineering & Technology (2021–2025)
-💡 Python | Machine Learning | FastAPI | Automation | GIS
-🚀 Passionate about building intelligent systems, scalable APIs, and real-time GIS & ML solutions.
-
-📬 Email: rautmanthan75@gmail.com
+📧 Email: rautmanthan75@gmail.com
 
 📱 Contact: 8007214181
-🔗 LinkedIn: (add your link here)
-🔗 GitHub: (add your link here)
+🔗 LinkedIn: add link
+🔗 GitHub: add link
 
-🧑‍💼 Profile Summary
+🚀 About Me
 
-Motivated and detail-oriented IT Engineering graduate with hands-on experience in Python development, automation testing, machine learning, and GIS-based forecasting. Skilled in building end-to-end ML pipelines, REST APIs, and real-time dashboards. Strong problem-solver with a passion for developing scalable solutions using modern backend technologies and data-driven approaches.
+A passionate developer who loves solving real-world problems using Python, Machine Learning, and FastAPI.
+I enjoy working on automation, AI pipelines, spatial GIS data, and backend systems.
 
 🛠️ Tech Stack
-Languages
+🔹 Languages
+<p> <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" height="60"/> </p>
+🔹 ML & AI
+<p> <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/> </p>
+🔹 Frameworks
+<p> <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs" height="60"/> </p>
+🔹 Databases
+<p> <img src="https://skillicons.dev/icons?i=postgresql,mysql" height="55"/> <img src="https://img.shields.io/badge/PostGIS-404D59?style=for-the-badge&logo=postgis&logoColor=white"/> </p>
+🔹 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="55"/> </p>
+💼 Experience
+🔹 Machine Learning & Research Intern — MRSAC, Nagpur
 
-Python
+📅 Jun–Aug 2024
+✔ Built LSTM & RF models for weather forecasting
+✔ Automated ETL pipelines
+✔ Integrated ML into PostGIS dashboards
+✔ Satellite visualization using QGIS & LeafletJS
 
-JavaScript
+🔹 Python & AI Intern — Immverse AI
 
-SQL
+📅 Jan–May 2024
+✔ Developed AI avatar pipelines (FastAPI + OpenCV + FFmpeg)
+✔ Built async frame sync scripts
+✔ Improved rendering speed by 22%
 
-C++
+📌 Projects
+🧠 Weather Notifier Bot – FastAPI + Telegram
 
-HTML & CSS
+✔ Sends real-time alerts using cron + APIs
+✔ Built using Python + Webhooks
 
-Machine Learning / AI
+🚦 AI-Based Traffic Management – React + OpenCV
 
-LSTM, Random Forest
+✔ Mask R-CNN for congestion detection
+✔ Live dashboard visualizations
 
-Scikit-learn, TensorFlow
+💰 Finance Ops Dashboard – React + Node + PostgreSQL
 
-OpenCV
+✔ Secure CRUD app
+✔ Optimized SQL queries
 
-Feature Engineering
+🌧️ Rainfall Forecast Dashboard – LSTM + PostGIS
 
-Model Evaluation (RMSE, MAE)
-
-Backend / Frameworks
-
-FastAPI
-
-Node.js
-
-React.js
-
-Databases
-
-PostgreSQL
-
-MySQL
-
-MSSQL
-
-PostGIS
-
-GIS Tools
-
-QGIS
-
-ArcGIS
-
-Remote Sensing
-
-Tools
-
-Git & GitHub
-
-Docker
-
-VS Code
-
-Looker Studio
-
-Soft Skills
-
-Team Collaboration
-
-Problem-Solving
-
-Agile Methodology
-
-Communication
-
-Ownership & Accountability
-
-💼 Professional Experience
-🔹 Machine Learning & Research Intern
-
-MRSAC (Maharashtra Remote Sensing Applications Centre), Nagpur
-📅 June 2024 – Aug 2024
-
-Built LSTM and Random Forest models for rainfall & temperature forecasting.
-
-Automated ETL pipelines and integrated ML outputs into PostGIS-based dashboards.
-
-Worked on satellite data visualization, thematic mapping, and remote sensing projects.
-
-Validated predictions using OpenWeatherMap API and performance metrics (RMSE/MAE).
-
-🔹 Python & AI Intern
-
-Immverse AI, Nagpur
-📅 Jan 2024 – May 2024
-
-Developed end-to-end AI avatar generation pipelines using FastAPI, OpenCV & FFmpeg.
-
-Built asynchronous frame synchronization scripts using Python threading.
-
-Improved rendering performance by 22% through optimization & automation.
-
-📌 Featured Projects
-🧠 Weather Notifier Bot — FastAPI + Telegram API
-
-Sends real-time weather alerts using external APIs and cron automation.
-
-Built for real-world alerting & notifications.
-
-🚦 AI-Based Traffic Management System — React.js + OpenCV
-
-Developed congestion detection using Mask R-CNN.
-
-Deployed a live dashboard with real-time analytics.
-
-💰 Finance Operations Dashboard — React.js + Node.js + PostgreSQL
-
-Secure expense tracking system with CRUD APIs.
-
-Optimized SQL queries for fast data access.
-
-🌧️ Rainfall Forecast Dashboard — LSTM + RF + PostGIS
-
-Integrated ML predictions into GIS spatial visualization.
-
-Used in remote sensing applications for environmental forecasting.
+✔ ML + GIS integration
+✔ Spatial prediction visualizations
 
 🏆 Achievements
 
-🏁 Finalist — Smart India Hackathon 2024
-
-💻 Developed 6+ GitHub projects in ML, automation, and backend development
-
-🎓 Certifications
-
-Python for Data Science — NPTEL
-
-Web Development Bootcamp — CodeClause
-
-RPA Developer Foundation — Blue Prism / Eduskills
+🏅 Finalist — Smart India Hackathon 2024
+📌 6+ completed GitHub projects
 
 🎓 Education
-🎓 B.E. in Information Technology
 
-St. Vincent Pallotti College of Engineering & Technology, Nagpur (2021–2025)
-📊 CGPA: 7.2 / 10
+🎓 B.E. IT — 7.2 CGPA
+St. Vincent Pallotti College of Engineering, Nagpur (2021–2025)
 
-📘 Higher Secondary Certificate (HSC)
+📘 HSC — 87.68%
+📗 SSC — 76%
 
-Nirala Junior College, Nagpur (2021)
-📈 Percentage: 87.68%
+🎯 Hobbies
 
-📗 Secondary School Certificate (SSC)
+📸 Photography
+🎒 Trekking
+🧩 Debugging challenges
+🌍 Exploring places
+🤖 AI/ML trends
 
-New Orange City Convent School, Warud (2019)
-📈 Percentage: 76%
-
-🎯 Hobbies & Interests
-
-Trekking
-
-Exploring new places
-
-Photography & Editing
-
-AI/ML Trends
-
-Debugging & Problem Solving
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" height="170"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"> </p>
+✨ Quote
 
 ⭐ “Always learning. Always building. Always improving.”
