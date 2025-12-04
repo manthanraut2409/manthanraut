@@ -1,3 +1,7 @@
+---
+layout: default
+---
+{% include_relative README.md %}
 🎉 Hi there, I'm Manthan Raut!
 🧑‍💻 Software Developer | Python | Machine Learning | FastAPI
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-afb22f0b-f3d8-4c8e-8c9d-572b56e54df9.gif" width="400"> </p>
