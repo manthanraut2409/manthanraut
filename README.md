@@ -8,9 +8,8 @@ layout: default
 
 📧 Email: rautmanthan75@gmail.com
 
-📱 Contact: 8007214181
-🔗 LinkedIn: add link
-🔗 GitHub: add link
+🔗 LinkedIn: https://in.linkedin.com/in/manthan-raut
+🔗 GitHub: https://github.com/manthanraut2409
 
 🚀 About Me
 
@@ -31,7 +30,7 @@ I enjoy working on automation, AI pipelines, spatial GIS data, and backend syste
 💼 Experience
 🔹 Machine Learning & Research Intern — MRSAC, Nagpur
 
-📅 Jun–Aug 2024
+📅 Jun 24 –Aug 2025
 ✔ Built LSTM & RF models for weather forecasting
 ✔ Automated ETL pipelines
 ✔ Integrated ML into PostGIS dashboards
@@ -87,7 +86,7 @@ St. Vincent Pallotti College of Engineering, Nagpur (2021–2025)
 🤖 AI/ML trends
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" height="170"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manthanraut2409&show_icons=true&theme=tokyonight" height="170"> <img src="https://github-readme-streak-stats.herokuapp.com?user=manthanraut2409&theme=tokyonight" height="170"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanraut2409&layout=compact&theme=tokyonight" height="160"> </p>
 ✨ Quote
 
 ⭐ “Always learning. Always building. Always improving.”
